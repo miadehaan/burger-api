@@ -3,6 +3,7 @@ Created my own 'mock' API for burgers
 
 ## Description
 This is a mock, custom API for burgers. This was created using the npm json-server package to allow a mock server environment for testing.
+This API was created using Ania Kubow's tutorial and burger data.
 
 Deployed Link: https://custom-burger-api.herokuapp.com/
 
