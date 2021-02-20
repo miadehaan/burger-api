@@ -1,0 +1,26 @@
+{
+  "name": "burger-api",
+  "version": "1.0.0",
+  "description": "Custom burger API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/miadehaan/burger-api.git"
+  },
+  "keywords": [
+    "api"
+  ],
+  "author": "Mia de Haan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/miadehaan/burger-api/issues"
+  },
+  "homepage": "https://github.com/miadehaan/burger-api#readme",
+  "dependencies": {
+    "json-server": "^0.16.3"
+  }
+}
